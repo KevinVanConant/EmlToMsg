@@ -61,11 +61,5 @@ You can move/copy it freely — no install needed.
 - EmlToMsg.csproj         // Project file
 ```
 
-<!-->
-## 📸 Screenshot
-
-![screenshot](https://user-images.githubusercontent.com/your-placeholder/screenshot.png)
--->
----
 
 MIT License — © 2024 Kevin VanConant
